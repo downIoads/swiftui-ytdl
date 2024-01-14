@@ -10,4 +10,6 @@ It runs on macOS 12.0 and newer. It will download [yt-dlp](https://github.com/yt
 * Uses yt-dlp auto-update function so that it won't stop working in two weeks
 
 ## Screenshots
-Check out my [blog post]() to see screenshots.
+[[https://downioads.github.io/images/ytdl/light1.png)|alt=Light Mode 1]]
+
+Check out my [blog post](https://downioads.github.io/posts/swiftui-ytdl/) to get more background info about this app.
