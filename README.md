@@ -11,7 +11,6 @@ It runs on macOS 12.0 and newer. It will download [yt-dlp](https://github.com/yt
 
 ## Screenshots
 ![Light Mode](https://downioads.github.io/images/ytdl/light1.png)
-![Dark Mode]([[https://downioads.github.io/images/ytdl/dark1.png](https://downioads.github.io/images/ytdl/dark1.png)])
-[<img src="[path/to/image.png](https://downioads.github.io/images/ytdl/dark1.png)">]([https://link-to-your-URL/](https://downioads.github.io/images/ytdl/dark1.png))
+![Dark Mode](https://downioads.github.io/images/ytdl/dark1.png)
 
 Check out my [blog post](https://downioads.github.io/posts/swiftui-ytdl/) to see more screenshots and get more background info about this app.
